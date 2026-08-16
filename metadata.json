@@ -1,0 +1,6 @@
+{
+  "name": "Novera Education",
+  "description": "Personalised 1-to-1 Online Tutoring for IB, MYP, IGCSE, A-Level, AP & Elite Test Prep (SAT, ACT, GMAT, GRE, TMUA, TSA, UCAT, LNAT)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
